@@ -1,0 +1,19 @@
+{
+  "domain": "shia_prayer",
+  "name": "Shia Prayer",
+  "version": "0.1.0",
+  "documentation": "https://github.com/abaalabdulwahab/shia-prayer-ha",
+  "issue_tracker": "https://github.com/abaalabdulwahab/shia-prayer-ha/issues",
+  "codeowners": [
+    "@abaalabdulwahab"
+  ],
+  "config_flow": true,
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "dependencies": [],
+  "after_dependencies": [],
+  "loggers": [
+    "custom_components.shia_prayer"
+  ]
+}

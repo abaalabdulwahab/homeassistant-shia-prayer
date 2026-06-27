@@ -1,0 +1,1 @@
+"""Shia Prayer integration."""
